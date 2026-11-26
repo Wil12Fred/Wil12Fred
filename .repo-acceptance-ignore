@@ -1,0 +1,3 @@
+# Files that contain detection patterns on purpose; the reason is the file itself.
+.claude/skills/repo-acceptance/scripts/check_repo.py
+.claude/skills/repo-acceptance/references/*
